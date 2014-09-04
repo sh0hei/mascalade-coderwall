@@ -1,7 +1,3 @@
 package com.github.sh0hei.mascalade.coderwall.model
 
-class Account(g: String, t: String, l: String) {
-	var github
-	var twitter
-	var linkedIn
-}
+case class Account(github: String, twitter: String, linkedIn: String)
