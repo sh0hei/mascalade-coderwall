@@ -1,6 +1,8 @@
 package com.github.sh0hei.mascalade.coderwall
 
-import scalaj.http.HttpException
+import org.json4s.DefaultFormats
+import com.github.nscala_time.time.Imports._
+import scalaj.http._
 
 class CoderwallException private (val message: String, val cause: Exception) extends Exception(message, cause)
 
