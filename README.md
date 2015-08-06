@@ -1,4 +1,4 @@
-# mascalade-coderwall
+# mascalade-coderwall    [![Build Status](https://travis-ci.org/sh0hei/mascalade-coderwall.svg)](https://travis-ci.org/sh0hei/mascalade-coderwall)
 
 [coderwall](https://coderwall.com/) API Scala wrapper library.
 
